@@ -1,3 +1,5 @@
+//サブクラス
+
 package Inheritance;
 
 public class Student extends Person{

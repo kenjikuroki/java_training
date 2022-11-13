@@ -1,3 +1,5 @@
+//スーパークラス
+
 package Inheritance;
 
 public class Person{
